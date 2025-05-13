@@ -1,5 +1,5 @@
 # Customer_Intention_Prediction
-This is my first project on Git hub 
+This project is to predict the customer intention using Deep Learning 
 echo "# Customer_Intention_Prediction" >> README.md
 git init
 git add README.md
